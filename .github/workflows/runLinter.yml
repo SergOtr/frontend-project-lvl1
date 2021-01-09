@@ -1,0 +1,25 @@
+# Name of workflow
+name: run-linter-actions
+
+# Trigger the workflow on push or pull request
+on:
+  - push
+  - pull_request
+  
+jobs:
+  run-ESLint:
+  
+    # The type of machine to run the job on
+    runs-on: macos-latest
+    
+    steps:
+        # Check-out repository under GitHub workspace
+        # https://github.com/actions/checkout
+      - uses: actions/checkout@v2
+        # Step's name
+      - uses: actions/setup-node@v1
+        # The Node.js version to configure
+      - name: Run linter
+        # Run Linter
+        run: |
+          make lint
