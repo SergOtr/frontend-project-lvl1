@@ -5,7 +5,8 @@ name: run-linter-actions
 on:
   - push
   - pull_request
-  
+ 
+
 jobs:
   run-ESLint:
   
@@ -21,5 +22,4 @@ jobs:
         # The Node.js version to configure
       - name: Run linter
         # Run Linter
-        run: |
-          make lint
+        run: make lint
