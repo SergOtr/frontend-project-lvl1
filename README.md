@@ -6,3 +6,10 @@
 
 <a href="https://asciinema.org/a/Isu9koJTwRYU0lYDdiEsnaLhh" target="_blank"><img src="https://asciinema.org/a/Isu9koJTwRYU0lYDdiEsnaLhh.svg" /></a>
 
+
+
+
+
+
+<script id="asciicast-Isu9koJTwRYU0lYDdiEsnaLhh" src="https://asciinema.org/a/Isu9koJTwRYU0lYDdiEsnaLhh.js" async></script>
+
