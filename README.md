@@ -11,5 +11,4 @@
 
 
 
-<script id="asciicast-Isu9koJTwRYU0lYDdiEsnaLhh" src="https://asciinema.org/a/Isu9koJTwRYU0lYDdiEsnaLhh.js" async></script>
 
